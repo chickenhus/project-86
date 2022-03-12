@@ -1,0 +1,12 @@
+.body_background{
+    background-image: url("avenger_bg.jpg");
+}
+h3{
+    text-align: center;
+    border-radius: 10px;
+    border-width: 5px;
+}
+#my_canvas{
+    background-color: aliceblue;
+    border-width: 10px;
+}
